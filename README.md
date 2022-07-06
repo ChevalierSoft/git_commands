@@ -10,8 +10,11 @@
 - `git checkout your_branch`
 - `git merge origin/main`
 
+##
+`git stash` to stack the content not commit
+`git stash pop` to pop the content from the stack on the actual branch
 
-
+`git commit --amend -m "message"` change last commit message
 
 
 ## doc
